@@ -14,3 +14,7 @@ https://github.com/CRIPAC-DIG/SR-GNN
 Item KNN  
 https://github.com/leonvking0/Recommendation_Algos  
 코사인 유사도 계산하는 부분이 잘못되어 있어 수정되었습니다.  
+
+## 사용방법
+SR-GNN+SKNN.ipynd 파일로 실행 할 수 있습니다.  
+논문에서 제시한 추가 방법이 각각 Method 1,2,3으로 나누어져 있습니다.
